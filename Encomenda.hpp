@@ -7,7 +7,7 @@ using namespace std;
 class Encomenda{
 
 	public:
-
+        //This is the weight of the product
 		double PESO = 0.0;
 		double CUSTOkg = 0.0;
 		double T = 0.0;
